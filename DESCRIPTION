@@ -1,0 +1,13 @@
+Package: OrderedBart
+Type: Package
+Title: Bayesian additive regression trees for ordinal response data
+Version: 1.0
+Date: 2016-05-31
+Author: Bereket Kindo
+Maintainer: Bereket Kindo <bpkindo@gmail.com>
+Description: Ordinal response extension of Bayesian additive regression trees
+License: GPL >=2
+Imports:
+    Rcpp (>= 0.12.3)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 6.0.1
